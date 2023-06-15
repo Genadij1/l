@@ -77,5 +77,6 @@ int main() {
     int maxVal5 = findMax(x, y, z);
     cout << "Max value of " << x << ", " << y << ", and " << z << ": " << maxVal5 << endl;
 
+    system("pause>nul");
     return 0;
 }
