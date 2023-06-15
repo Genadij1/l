@@ -29,5 +29,6 @@ int main() {
     int startPos = findMinSumPosition(arr, 0, 0, INT_MAX, 0);
     cout << "Position of the sequence with minimum sum: " << startPos << endl;
 
+    system("pause>nul");
     return 0;
 }
